@@ -51,6 +51,7 @@ class Openldap < Formula
       --enable-dynlist
       --enable-hdb=no
       --enable-memberof
+      --enable-modules
       --enable-ppolicy
       --enable-proxycache
       --enable-refint
